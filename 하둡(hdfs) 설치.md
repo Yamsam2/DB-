@@ -20,4 +20,3 @@ VERSION 파일 내용의 아이디를 일치시켜주거나 파일내용 모두 
 
 - 환경변수 경로 설정시 띄어쓰기 인식함 
 - properties 파일 설정시 폴더 경로 C:\ 형식으로 해야 작동 
-![image](https://user-images.githubusercontent.com/95395581/169253346-c02c4052-2646-4cf6-ba3e-a93fc6dcc859.png)
