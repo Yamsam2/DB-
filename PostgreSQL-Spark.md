@@ -19,7 +19,7 @@ properties 선언<br>
 val connectionProperties = new Properties()<br>
 connectionProperties.setProperty("Driver", "org.postgresql.Driver")
 
-user/password 입력<br>
+user/password 입력<br> 
 connectionProperties.put("user", "postgres")<br>
 connectionProperties.put("password", "test")
 
