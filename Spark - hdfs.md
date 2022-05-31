@@ -14,6 +14,6 @@ val sparkSession = SparkSession.builder().appName("example-spark-scala-read-and-
 
 val df_csv = sparkSession.read.option("inferSchema", "true").csv("hdfs:///output/testgiss.csv")
 
-참고site<br>
+참고site<br> 
 https://saagie.zendesk.com/hc/en-us/articles/360030094231-Spark-Scala-Read-Write-files-from-HDFS
 
