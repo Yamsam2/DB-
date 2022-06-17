@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=rAeQ2k-C00o<br>
 https://hevodata.com/learn/spark-postgresql/
 
 spark3.1.3 준비<br>
-postgresql.jar 연결 파일 준비(JDBC driver)<br>
+postgresql.jar 연결 파일 준비(JDBC driver)<br> 
 스파크 셸 실행<br>
 
 &#45; 명령어 - 
