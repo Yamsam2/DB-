@@ -9,7 +9,7 @@ import org.apache.spark.sql._ 입력해줘야됨
 
 
 저장 파일 읽기<br>
-import org.apache.spark.sql.SparkSession 
+import org.apache.spark.sql.SparkSession
 val sparkSession = SparkSession.builder().appName("example-spark-scala-read-and-write-from-hdfs").getOrCreate()
 
 val df_csv = sparkSession.read.option("inferSchema", "true").csv("hdfs:///output/testgiss.csv")
