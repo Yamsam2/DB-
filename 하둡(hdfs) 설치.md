@@ -13,7 +13,7 @@ http://localhost:9870 - 하둡 웹 인터페이스
 
 http://localhost:9864 - 데이터 노드 
 
-http://localhost:8088 - 클러스터
+http://localhost:8088 - 클러스터 
 
 데이터노드 구동 오류시 
 VERSION 파일 내용의 아이디를 일치시켜주거나 파일내용 모두 삭제, 포맷 후 다시 실행 
