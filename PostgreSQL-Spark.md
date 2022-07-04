@@ -1,6 +1,6 @@
 ### 정형데이터 기준(테이블)
 
-https://www.youtube.com/watch?v=rAeQ2k-C00o<br>
+https://www.youtube.com/watch?v=rAeQ2k-C00o<br> 
 https://hevodata.com/learn/spark-postgresql/
 
 spark3.1.3 준비<br>
