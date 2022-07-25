@@ -11,7 +11,7 @@ hdfs namenode -format
 
 http://localhost:9870 - 하둡 웹 인터페이스
 
-http://localhost:9864 - 데이터 노드  
+http://localhost:9864 - 데이터 노드   
 
 http://localhost:8088 - 클러스터 
 
