@@ -10,7 +10,7 @@ postgresql.jar 연결 파일 준비(JDBC driver)<br>
 &#45; 명령어 - 
 
 패스설정<br>
-:require c:/postgresql-42.3.5.jar
+:require c:/postgresql-42.3.5.jar 
  
 자바properties(파일입출력) 임포트<br>  
 import java.util.Properties
