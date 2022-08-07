@@ -14,7 +14,7 @@ postgresql.jar 연결 파일 준비(JDBC driver)<br>
  
 자바properties(파일입출력) 임포트<br>  
 import java.util.Properties
-
+ 
 properties 선언<br>
 val connectionProperties = new Properties()<br>
 connectionProperties.setProperty("Driver", "org.postgresql.Driver")  
