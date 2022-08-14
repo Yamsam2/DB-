@@ -18,3 +18,4 @@ val df_csv = sparkSession.read.option("inferSchema", "true").csv("hdfs:///output
 https://saagie.zendesk.com/hc/en-us/articles/360030094231-Spark-Scala-Read-Write-files-from-HDFS
  
  
+ 
