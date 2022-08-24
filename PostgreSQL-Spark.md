@@ -20,7 +20,7 @@ val connectionProperties = new Properties()<br>
 connectionProperties.setProperty("Driver", "org.postgresql.Driver")  
 
 user/password 입력<br> 
-connectionProperties.put("user", "postgres")<br>
+connectionProperties.put("user", "postgres")<br> 
 connectionProperties.put("password", "test")
 
 테이블 변수 선언(스키마)<br>
